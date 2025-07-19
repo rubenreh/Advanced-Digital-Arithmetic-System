@@ -1,4 +1,4 @@
-# ECE 124 - Lab 2: Advanced Digital Arithmetic System
+# Advanced Digital Arithmetic System
 
 ## 🚀 Project Overview
 
